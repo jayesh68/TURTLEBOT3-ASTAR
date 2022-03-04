@@ -26,11 +26,15 @@ The first four test cases are for a start node of 100,50 (gazebo:-4,-4.5) and in
 <img src="https://github.com/jayesh68/TURTLEBOT3-ASTAR/blob/main/PathImages/Screenshot%20from%202022-03-04%2011-34-05.png"/>
 
 ## Robot position in 2d visualization and Gazebo
+<p float="left">
 <img src="https://github.com/jayesh68/TURTLEBOT3-ASTAR/blob/main/PathImages/Screenshot%20from%202022-03-04%2011-26-58.png" width="250" height="250"/>
 <img src="https://github.com/jayesh68/TURTLEBOT3-ASTAR/blob/main/PathImages/Screenshot%20from%202022-03-04%2011-27-25.png" width="250" height="250"/>
+</p>
 
+<p float="left">
 <img src="https://github.com/jayesh68/TURTLEBOT3-ASTAR/blob/main/PathImages/Screenshot%20from%202022-03-04%2011-28-11.png" width="250" height="250"/>
 <img src="https://github.com/jayesh68/TURTLEBOT3-ASTAR/blob/main/PathImages/Screenshot%20from%202022-03-04%2011-31-49.png" width="250" height="250"/>
+</p>
 
 ## Simulation Videos
 * https://youtu.be/89I4cntxWxM
